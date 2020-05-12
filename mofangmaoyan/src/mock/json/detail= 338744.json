@@ -1,0 +1,66 @@
+{
+    "msg": "ok",
+    "status": 0,
+    "data": {
+        "detailMovie": {
+            "albumIng": "http://p1.meituan.net/w.h/movie/967b253953bc7e660cfadbf9d78f67b62852693.jpg",
+            "bingWatch": 128925,
+            "bingWatchst": 0,
+            "cat": "冒险，惊悚，灾难",
+            "comScorePerson": true,
+            "commented": false,
+            "dir": "柯汶利",
+            "dra": "六年前，游泳运动员明煦阳（方力申 饰）在海洋乐园遭遇意外，虽然通过生物技术治愈腿伤，但始终无法摆脱水和鲨鱼的心理阴影。六年后，他和教授姚琳为收集海洋生物基因重回故地，却不料陷入负责人秦启光设计的一场有关血鲨的巨大阴谋。与此同时，海洋乐园的驯养员齐幻（周韦彤 饰）发现，明煦阳竟和自己多年来的心结有关，看似毫不相干的两人，彼此的命运早已交织在了一起。而另一边，血鲨因基因编辑造成基因突变，试图逃离驯养池冲入浅海，惊心动魄的人鲨对决一触即发，面对突如其来的灾难，他们也将为无度的贪婪付出代价。",
+            "dur": 106,
+            "egg": true,
+            "enm": "Horror Shark",
+            "episodeDur": 0,
+            "episodes": 0,
+            "fra": "中国大陆",
+            "frt": "中国",
+            "globaReleased": true,
+            "id": 338744,
+            "img":"https://p1.meituan.net/movie/258bfc30cec1e20070697ab090dfcc052620540.jpg@464w_644h_1e_1c",
+            "latestEpisode": 0,
+            "modcsSt": false,
+            "movieType": 0,
+            "multiPub": true,
+            "musicNum": 1,
+            "musicStar": "肖央",
+            "nm": "血鲨",
+            "onSale": false,
+            "onlinePlay": false,
+            "orderSt": 0,
+            "oriLang": "中文",
+            "photos": [
+                "https://p0.meituan.net/movie/f2148c99511f821be718ccdcd35871f1123401.jpg@106w_106h_1e_1c",
+                "https://p0.meituan.net/movie/48f9d7f0b6ac471668dbbb4294aeed0787425.jpg@106w_106h_1e_1c",
+                "https://p1.meituan.net/movie/e68dfe964ae067d53dc346f87a15633e97595.jpg@106w_106h_1e_1c",
+                "https://p0.meituan.net/movie/e64ce9780045a627f6d5cea63d246340355613.jpg@106w_106h_1e_1c",
+                "https://p1.meituan.net/movie/258bfc30cec1e20070697ab090dfcc052620540.jpg@106w_106h_1e_1c",
+                "https://p1.meituan.net/movie/e86442bcc91f9d6e5b832543a5fcf6473998749.jpg@106w_106h_1e_1c",
+                "https://p0.meituan.net/movie/01f2d711820d18918fb99fbafff1dfe53555641.jpg@106w_106h_1e_1c"
+
+                
+            ],
+            "pn": 272,
+            "preScorePersona": false,
+            "proScore": 0,
+            "proScoreNum": 1,
+            "pubDesc": "2020大陆上映",
+            "rt": "2019-12-13",
+            "sc": 0,
+            "scm": "http://p1.meituan.net/w.h/movie/967b253953bc7e660cfadbf9d78f67b62852693.jpg",
+            "scoreLabel": "猫眼票评分",
+            "showst": 0,
+            "snum": 165552,
+            "src": "中国",
+            "star": "肖央，陈述",
+            "type": 0,
+            "vd": "",
+            "ver": "2D/IMAX 2D/中国巨幕",
+            "videoIng": "http://p1.meituan.net/w.h/movie/967b253953bc7e660cfadbf9d78f67b62852693.jpg"
+        }
+       
+    }
+}

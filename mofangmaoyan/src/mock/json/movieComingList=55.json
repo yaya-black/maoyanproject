@@ -1,0 +1,106 @@
+{
+    "msg": "ok",
+    "flag":10,
+    "status": 0,
+    "data": {
+        "comingList": [
+            {
+                "id": 1238783,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/w.h/movie/033ba9ec7f9e45d7874e83c261075f7d318818.jpg",
+                "version": "v2dimax",
+                "nm": "心跳二十七度",
+                "proShow": false,
+                "sc": 8.5,
+                "globalReleased": true,
+                "wish": 39241,
+                "star": "周云鹏，黄奕，谭皓，陈延树",
+                "rt": "2020-11-13",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 338740,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/movie/f09d25b5dc2d0080fa93db9ffaaf4c5a6389423.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "小妇人",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 39507,
+                "star": "西尔莎·罗南，艾玛·沃特森，佛罗伦斯·珀，提莫西·查拉梅，梅丽尔·斯特里普",
+                "rt": "2020-01-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 338747,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/movie/077f41ce44d059a01288e0d7bf704f9f1642095.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "玩命三日",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 29751,
+                "star": "张嘉译，闫妮，姜妍，姬他",
+                "rt": "2020-02-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 338744,
+                "haspromotionTag": false,
+                "img": "https://p1.meituan.net/movie/258bfc30cec1e20070697ab090dfcc052620540.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "血鲨",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 26714,
+                "star": "甄子丹，毛舜筠，周丽淇，王晶",
+                "rt": "2020-02-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 338742,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/movie/aa61bd5809e99ff9b23e6276cf665bc92030231.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "肥龙过江",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 6981,
+                "star": "方力申，周韦彤，沈孟生，文东俊",
+                "rt": "2020-02-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {   
+                "id":367835,
+                "haspromotionTag":false,
+                "img":"http://p1.meituan.net/w.h/movie/d3f2c33b95e10f54dc402de27bb4bdc11292214.jpg",
+                "version":"",
+                "nm":"麦兜·饭宝奇兵",
+                "preShow":false,
+                "sc":0,
+                "globalReleased":false,
+                "wish":25201,
+                "star":"大汪,孙小妞,张正中",
+                "rt":"2020-04-25",
+                "showst":1,
+                "wishst":0,
+                "comingTitle":"4月25日 周六"
+            }
+          
+        ]
+    }
+}

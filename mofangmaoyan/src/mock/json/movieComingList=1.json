@@ -1,0 +1,108 @@
+{
+    "msg": "ok",
+    "flag":10,
+    "status": 0,
+    "data": {
+        "comingList": [
+            {
+                "id": 338747,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/movie/077f41ce44d059a01288e0d7bf704f9f1642095.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "玩命三日",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 29751,
+                "star": "张嘉译，闫妮，姜妍，姬他",
+                "rt": "2020-02-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 338744,
+                "haspromotionTag": false,
+                "img": "https://p1.meituan.net/movie/258bfc30cec1e20070697ab090dfcc052620540.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "血鲨",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 26714,
+                "star": "甄子丹，毛舜筠，周丽淇，王晶",
+                "rt": "2020-02-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                
+                "id": 12182317,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/w.h/movie/30b20139e68c46d02e0893277d633b701292458.jpg",
+                "version": "v2dimax",
+                "nm": "千与千寻",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 40632,
+                "star": "周冬雨，井柏然，入野自由",
+                "rt": "2020-4-13",
+                "showInfo": "今天2场次",
+                "showst": 3,
+                "wishst": 0
+            },
+            {
+                "id": 1212608,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/movie/b0e0d6ce9914f37e7f9f6ade13e096342721150.jpg@464w_644h_1e_1c" ,
+                "version": "",
+                "nm": "唐人街探案3",
+                "proShow": false,
+                "sc": 8.0,
+                "globalReleased": true,
+                "wish": 35241,
+                "star": "王宝强，刘昊然，期夫木聪",
+                "rt": "2020-01-15",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 1298349,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/moviemachine/6d175dd08812a4ff3f048f7b7e4ed449405105.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "夺冠",
+                "proShow": false,
+                "sc": 9.0,
+                "globalReleased": true,
+                "wish": 39567,
+                "star": "巩俐,吴刚,安家杰,惠若琪",
+                "rt": "2020-01-13",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            },
+            {
+                "id": 338740,
+                "haspromotionTag": false,
+                "img": "https://p0.meituan.net/movie/f09d25b5dc2d0080fa93db9ffaaf4c5a6389423.jpg@464w_644h_1e_1c",
+                "version": "",
+                "nm": "小妇人",
+                "proShow": false,
+                "sc": 9.5,
+                "globalReleased": true,
+                "wish": 39507,
+                "star": "西尔莎·罗南，艾玛·沃特森，佛罗伦斯·珀，提莫西·查拉梅，梅丽尔·斯特里普",
+                "rt": "2020-01-14",
+                "showInfo": "今天暂无场次",
+                "showst": 0,
+                "wishst": 0
+            }
+           
+           
+        ]
+    }
+}
